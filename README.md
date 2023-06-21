@@ -1,8 +1,8 @@
 ### Oii! Eu sou a Alanis Mayra
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/alanismayra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanismayra&show_icons=true&theme=Dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanismayra&show_icons=true&theme=Black&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanismayra&layout=compact&langs_count=7&theme=Dark"/>
 </div>
 
@@ -13,6 +13,9 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+   <img align="center" alt="rafaelq80-Spring boot" height="30" width="40" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+  <img align="center" alt="rafaelq80-MySQl" height="50" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MySQL-Dark.svg"/>
+  
   </div>
   
   ##
