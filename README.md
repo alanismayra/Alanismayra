@@ -1,4 +1,11 @@
-### Oii! Eu sou a Alanis Mayra
+<h1> Alanis Mayra - Desenvolvedora Fullstack</h1>
+
+Olá! Bem-vindo(a) ao meu perfil do GitHub! Tenho 19 anos. Sou formada pela Generation Brasil como desenvolvedora Fullstack e estou empolgada em compartilhar meu conhecimento e projetos neste espaço.
+
+Neste repositório, você encontrará alguns dos meus projetos pessoais e trabalhos acadêmicos. Sinta-se à vontade para explorar, clonar e contribuir para os projetos que mais lhe interessarem. Estou aberta a colaborações e sempre disposta a aprender com outros desenvolvedores.
+
+Se você tiver alguma dúvida, sugestão ou oportunidade de trabalho, não hesite em entrar em contato. Vamos juntos construir um mundo digital melhor!
+
 
 <div align="left">
   <a href="https://github.com/alanismayra">
