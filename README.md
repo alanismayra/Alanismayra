@@ -4,8 +4,6 @@ Olá! Bem-vindo(a) ao meu perfil do GitHub!
 
 Neste perfil, você encontrará alguns dos meus projetos pessoais e trabalhos acadêmicos. Sinta-se à vontade para explorar, clonar e contribuir para os projetos que mais lhe interessarem. Estou aberta a colaborações e sempre disposta a aprender com outros desenvolvedores.
 
-Se você tiver alguma dúvida, sugestão ou oportunidade de trabalho, não hesite em entrar em contato. Vamos juntos construir um mundo digital melhor!
-
 
 <div align="left">
   <a href="https://github.com/alanismayra">
